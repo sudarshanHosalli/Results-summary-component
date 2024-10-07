@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://snazzy-concha-8c3cbb.netlify.app/
+- Live Site URL: [https://snazzy-concha-8c3cbb.netlify.app/](https://lucent-frangipane-629286.netlify.app/)
 
 ## My process
 started with html built skeleton first and then added styles, some js for daynamic data rendering
